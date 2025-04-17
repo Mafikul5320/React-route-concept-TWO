@@ -3,6 +3,7 @@ import From from './Component/From'
 import GetForm from './Component/GetForm'
 import CustomHooksForm from './CustomHooks/CustomHooksForm'
 import InputFrom from './InputFrom'
+import ProdactManagement from './Product/ProdactManagement'
 
 function App() {
 
@@ -11,7 +12,8 @@ function App() {
     <>
       {/* <From></From> */}
       {/* <InputFrom></InputFrom> */}
-      <CustomHooksForm></CustomHooksForm>
+      {/* <CustomHooksForm></CustomHooksForm> */}
+      <ProdactManagement></ProdactManagement>
       {/* <GetForm></GetForm> */}
     </>
   )
