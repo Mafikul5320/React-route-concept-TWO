@@ -37,6 +37,11 @@
   padding: 2em;
 }
 
+.bod{
+  border: 2px solid blueviolet;
+  padding: 5px;
+  border-radius: 7px;
+}
 .read-the-docs {
   color: #888;
 }
